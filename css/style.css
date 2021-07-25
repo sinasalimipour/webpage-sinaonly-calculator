@@ -56,29 +56,6 @@
 		}
 		
 		
-		
-		/*Header*/
-		header {
-		  height: 120px;
-		}
-		header h1{
-		  float: right;
-		  margin-top: 32px;
-		}
-		header nav {
-		  float: left;
-		  margin-top: 50px;
-		}
-		header nav ul li {
-		  float: left;
-		  display: inline-block;
-		
-		}
-		header nav ul li a{
-		  text-transform: uppercase;
-		  font-weight: bold;
-		  margin-right: 20px;
-		}
 		/* Main image*/
 		#main-image {
 		  height: 580px;
@@ -235,3 +212,11 @@
 		  padding-top: 20px;
 		  color: #777;
 		}
+		.address {
+			width: 710px;
+			margin: 0 auto;
+			padding: 0 10px;
+			font-size: 20px;
+			text-align: right;
+		}
+		
