@@ -2,7 +2,7 @@
 
 my second project
 
-website: ///
+calculator website
 
 programming languages for this web page
 
